@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello👋
 
-<!--
-**kumja1/kumja1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Redux(some know me as Node), I enjoy programming and helping others out
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on API using React to create tutorials for Minecraft Bedrock Edition Addons
+- 🌱 I’m currently learning ExpressJS and Java
+- 😄 Pronouns: He/Him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages I know/work with
+[![Languages I know/work with](https://skills.thijs.gg/icons?i=react,nodejs,js,ts,css,html)](https://skills.thijs.gg)
+
+## Software I use
+[![Software I use](https://skills.thijs.gg/icons?i=visualstudio,vscode,blender,unity)](https://skills.thijs.gg)
