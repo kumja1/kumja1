@@ -2,7 +2,7 @@
 
 I am Redux(also known as Node), I enjoy programming and helping others out
 
-- 🔭 I’m currently working on API using React to create tutorials for MCBE Addons
+- 🔭 I’m currently building ***React**or* API
 - 🌱 I’m currently learning ExpressJS and Java
 - 😄 Pronouns: He/Him
 
