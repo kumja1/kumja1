@@ -7,7 +7,7 @@ I am Redux(also known as Node), I enjoy programming and helping others out
 - 😄 Pronouns: He/Him
 
 ## Languages I know/work with
-[![Languages I know/work with](https://skills.thijs.gg/icons?i=react,nodejs,js,ts,css,html,expressjs,java,csharp)](https://skills.thijs.gg)
+[![Languages I know/work with](https://skills.thijs.gg/icons?i=react,nodejs,js,ts,css,html,expressjs,java,cs)](https://skills.thijs.gg)
 
 ## Software I use
 [![Software I use](https://skills.thijs.gg/icons?i=visualstudio,vscode,blender,unity)](https://skills.thijs.gg)
