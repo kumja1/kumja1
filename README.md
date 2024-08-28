@@ -2,7 +2,7 @@
 
 I am Node, I enjoy programming and helping others out
 
-- 🔭 I’m currently building Architect Editor
+- 🔭 I’m currently making nothing
 - 🌱 I’m currently learning C# and Blazor Web Developement
 - 😄 Pronouns: He/Him
 
