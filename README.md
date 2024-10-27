@@ -1,9 +1,9 @@
 ### Hello👋
 
-I am Node, I enjoy programming and helping others out
+I am kumaja, I enjoy programming and helping others out
 
 - 🔭 I’m currently making nothing
-- 🌱 I’m currently learning C# and Blazor Web Developement
+- 🌱 I’m currently learning Blazor Web Developement
 - 😄 Pronouns: He/Him
 
 ## Languages I know/work with
