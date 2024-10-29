@@ -1,6 +1,6 @@
 ### Hello👋
 
-I am kumaja, I enjoy programming and helping others out
+I am kumja, I enjoy programming and helping others out
 
 - 🔭 I’m currently making nothing
 - 🌱 I’m currently learning Blazor Web Developement
@@ -11,3 +11,6 @@ I am kumaja, I enjoy programming and helping others out
 
 ## Software I use
 [![Software I use](https://skillicons.dev//icons?i=visualstudio,vscode,blender,unity)](https://skillicons.dev/)
+
+## Stats
+[![kumja's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumja&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
