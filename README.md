@@ -13,7 +13,7 @@ I am kumja, I enjoy programming and helping others out
 [![Software I use](https://skillicons.dev//icons?i=visualstudio,vscode,blender,unity)](https://skillicons.dev/)
 
 ## Stats
-[![kumja's GitHub stats](https://github-readme-stats-eta-neon.vercel.app/api?username=kumja1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats-eta-neon.vercel.app/api/top-langs?username=kumja1&theme=tokyonight&hide_border=true&langs_count=20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <img src="https://github-readme-stats-eta-neon.vercel.app/api?username=kumja1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+  <img src="https://github-readme-stats-eta-neon.vercel.app/api/top-langs?username=kumja1&theme=tokyonight&hide_border=true&langs_count=7&layout=compact&card_width=500"/>
+</div>
