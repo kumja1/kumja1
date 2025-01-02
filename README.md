@@ -2,15 +2,15 @@
 
 I am kumja, I enjoy programming and helping others out
 
-- 🔭 I’m currently making nothing
-- 🌱 I’m currently learning Blazor Web Developement
+- 🔭 I’m currently making a widget framework for CosmosOS
+- 🌱 I’m currently learning ...
 - 😄 Pronouns: He/Him
 
 ## Languages I know/work with
-[![Languages I know/work with](https://skillicons.dev/icons?i=react,nodejs,js,ts,css,html,expressjs,cs,dotnet)](https://skillicons.dev/)
+[![Languages I know/work with](https://skillicons.dev/icons?i=react,nodejs,js,ts,css,html,expressjs,cs,dotnet,dart,flutter)](https://skillicons.dev/)
 
 ## Software I use
-[![Software I use](https://skillicons.dev//icons?i=visualstudio,vscode,blender,unity)](https://skillicons.dev/)
+[![Software I use](https://skillicons.dev//icons?i=blender,unity,rider,git)](https://skillicons.dev/)
 
 ## Stats
 <div>
