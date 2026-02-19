@@ -2,8 +2,8 @@
 
 I am kumja, I enjoy programming and helping others out
 
-- 🔭 I’m currently making a widget framework for CosmosOS
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently making...
+- 🌱 I’m currently learning...
 - 😄 Pronouns: He/Him
 
 ## Languages I know/work with
