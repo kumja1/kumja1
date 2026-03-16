@@ -7,7 +7,7 @@ I am kumja, I enjoy programming and helping others out
 - 😄 Pronouns: He/Him
 
 ## Languages I know/work with
-[![Languages I know/work with](https://skillicons.dev/icons?i=react,nodejs,js,ts,css,html,expressjs,cs,dotnet,dart,flutter)](https://skillicons.dev/)
+[![Languages I know/work with](https://skillicons.dev/icons?i=react,nodejs,js,ts,css,html,expressjs,cs,java，dotnet,dart,flutter)](https://skillicons.dev/)
 
 ## Software I use
 [![Software I use](https://skillicons.dev//icons?i=blender,unity,rider,git)](https://skillicons.dev/)
